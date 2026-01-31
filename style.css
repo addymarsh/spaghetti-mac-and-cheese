@@ -1,0 +1,35 @@
+.one {
+	font-family: arial; 
+	color: red;
+}
+
+.two{
+	height: 30%;
+
+
+
+
+}
+
+.three{
+	height: 20%;
+
+}
+
+.four{
+	height: 50%;
+
+}
+.bod{
+	color: lightgoldenrodyellow;
+	display: flex;
+	flex-direction: column;
+	background-color: darkolivegreen;
+	width: 25%;
+	height: 50%;
+	border: 5px solid lightgoldenrodyellow;
+	font-family: arial;
+}
+body {
+	background-color: orange;
+}
